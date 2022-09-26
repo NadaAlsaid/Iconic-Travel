@@ -21,8 +21,7 @@
 <li>Tkinter Library for GUI </li> 
  </i>
 <br>
-<div align="center"><img src="https://user-images.githubusercontent.com/92337927/189501452-631b35c8-969b-4e15-81c2-d3561831080e.jpg" width="100px" ></div>
-<div align="center"><img src="https://user-images.githubusercontent.com/92337927/189501457-6ed400b6-6164-44a5-9d7f-e382015f6d2f.jpg" width="100px" ></div>
+<div ><img src="https://user-images.githubusercontent.com/92337927/189501452-631b35c8-969b-4e15-81c2-d3561831080e.jpg" width="100px" ><img src="https://user-images.githubusercontent.com/92337927/189501457-6ed400b6-6164-44a5-9d7f-e382015f6d2f.jpg" width="100px" ></div>
 <br>
 <div align="center"><img src="https://user-images.githubusercontent.com/92337927/189501465-bbbb8f6b-c9ac-4f79-81a3-168dd74480c4.jpg" width="900px" ></div>
 <br>
