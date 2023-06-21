@@ -1,9 +1,8 @@
 <h1 align="center" > Iconic Travel  </h1>
 
-<h3>It's Android application using JAVA.</h3>
+<h3>It's Android application using Java.</h3>
 
-<h3> Features :</h3> 
-
+## Features :
   ### - Login to an account(if it exists) or Register a new one.
   ### - Admin
       Show all Flights
