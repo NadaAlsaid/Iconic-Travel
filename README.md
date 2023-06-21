@@ -1,25 +1,18 @@
 <h1 align="center"> Iconic Travel  </h1>
-<i>
-<li>Preprocessing</li>
-   
-<li>LDA for Feature Extraction </li>
-   
-<li>Data scalling</li>
-   
-<li>Logistics Regression algorithm </li>
-   
-<li>SVM algorithm</li>
-   
-<li>Decision Tree algorithm ( ID3 ) </li>
-   
-<li>Random Forest algorithm </li>
-   
-<li>Navie Bayes algorithm </li>
-   
-<li>KNN algorithm</li> 
-   
-<li>Tkinter Library for GUI </li> 
- </i>
+It's Android application using JAVA.
+## Features :
+  ### - Login to an account(if it exists) or Register a new one.
+  ### - Admin
+      Show all Flights
+      Add new Flight
+      Delete Flight
+      Update Flight
+  ### - User
+      Choose inside / outside flight
+      Choose destination
+      Show flights that are still available 
+      Book flight
+      My profile activity display his flights and option to cancel flight 
 <br>
 <div align="center"><img src="https://user-images.githubusercontent.com/92337927/189501452-631b35c8-969b-4e15-81c2-d3561831080e.jpg" width="100px" >     <img src="https://user-images.githubusercontent.com/92337927/189501457-6ed400b6-6164-44a5-9d7f-e382015f6d2f.jpg" width="100px" >     
 <img src="https://user-images.githubusercontent.com/92337927/189501465-bbbb8f6b-c9ac-4f79-81a3-168dd74480c4.jpg" width="100px" >     
