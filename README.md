@@ -34,7 +34,7 @@
 <img src="https://user-images.githubusercontent.com/92337927/189501563-a23bf0c1-cff9-4c87-aa9a-557e7577d90c.jpg" width="100px" ></div>
 <br>
   
-<h3> Collaborators: </h3> 
+<h3>Collaborators: </h3> 
   
 - <a href="https://github.com/NadaAlsaid">Nada Alsaid</a><br>
 - <a href="https://github.com/Nada-Abdallah">Nada Abdallah</a><br>
