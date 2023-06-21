@@ -1,6 +1,6 @@
 <h1 align="center" > Iconic Travel  </h1>
 
-It's Android application using JAVA.
+<h4>It's Android application using JAVA.</h4>
 
 ## Features :
   ### - Login to an account(if it exists) or Register a new one.
