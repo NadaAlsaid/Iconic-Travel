@@ -36,9 +36,9 @@
   
 <h3> Collaborators: </h3> 
   
-- <a href="https://github.com/NadaAlsaid">Nada Alsaid</a><br>
-- <a href="https://github.com/Nada-Abdallah">Nada Abdallah</a><br>
-- Nesma Farid
-- Rahma Medhat
-- Rahma Ahmed
-- Nourhan Mohammed
+<a href="https://github.com/NadaAlsaid">Nada Alsaid</a><br>
+<a href="https://github.com/Nada-Abdallah">Nada Abdallah</a><br>
+Nesma Farid
+Rahma Medhat
+Rahma Ahmed
+Nourhan Mohammed
